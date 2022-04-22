@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ZeyosX
+- 👀 I’m interested in AI, Games
+- 🌱 I’m currently learning Computer Science

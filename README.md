@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ZeyosX
-- 👀 I’m interested in AI, Games
-- 🌱 I’m currently learning Computer Science
+- 👋 Hi, I’m Omar Iseid
+- 👀 I’m interested in AI, Games, Websites
+- 🌱 I’m currently learning Computer Science at Al-Quds Bard College

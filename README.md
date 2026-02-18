@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Omar Iseid
-- 👀 I’m interested in AI, Games, Websites
-- 🌱 I’m currently learning Computer Science at Al-Quds Bard College
+- 👋 Hi, I’m Omar Isayed
+- 👀 I’m interested in AI, Games, Complex Systems
+- 🌱 I’m the founder of Iseids for Software Solution and a co-founder of Maher Go 
